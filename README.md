@@ -5,7 +5,7 @@
 This interactive Power BI dashboard provides business insights by analyzing sales performance, profitability, cost of goods sold (COGS), customer segments, products, and geographical performance.
 
 ---
-
+ 
 ## Dashboard Preview
 
 ![Finance Dashboard](Images/Dashboard.png)
